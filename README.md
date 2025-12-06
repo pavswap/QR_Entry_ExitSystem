@@ -1,4 +1,4 @@
-#QR Entry Exit System
+# QR Entry Exit System
 
 This is a simple QR Based Entry exit system. Scan the QR to enter, after scanning your name will be registered. Scanning again will remove your name.
 
